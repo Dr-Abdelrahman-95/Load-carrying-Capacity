@@ -78,7 +78,6 @@
 
 **Expected Results**: The notebook outputs model performance metrics and predictions.
 
-
-**Note: **Ensure all dependencies (e.g., Python packages like xgboost, scikit-learn, pandas, matplotlib) are installed and up to date. Use pip install <package> to install any missing libraries.
+**Note:** Ensure all dependencies (e.g., Python packages like xgboost, scikit-learn, pandas, matplotlib) are installed and up to date. Use pip install <package> to install any missing libraries.
 
 These instructions should guide you to run the code successfully and obtain the reported results for each model.
