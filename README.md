@@ -42,6 +42,14 @@
 
 **Expected Results**: The notebook outputs performance metrics and predictions from the trained and Tested SVR model.
 
+**04- Ensemble (RF model)**
 
+**How to Run:**
 
+1- Open the Jupyter Notebook 04- Ensemble (RF model).ipynb.
 
+2- Execute each cell step-by-step to read the data, train the Random Forest model, and evaluate its performance.
+
+3- Ensure data loading and preprocessing steps match the input format required by the notebook.
+
+**Expected Results**: The model displays performance metrics such as R^2 and outputs predictions.
