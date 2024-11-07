@@ -66,5 +66,17 @@
 
 **Expected Results**: The notebook should output the trained model’s performance metrics and predictions.
 
+**06- Ensemble (XGBoost model)**
+
+**How to Run:**
+
+1- Open the Jupyter Notebook 06- Ensemble (XGBoost model).ipynb.
+
+2- Execute each cell for loading data, training, and generating results.
+
+3- Ensure the Joblib from (XGBoost model).joblib file is available if needed for model loading or inference.
+
+**Expected Results**: The notebook outputs model performance metrics and predictions.
+
 
 
