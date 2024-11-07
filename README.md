@@ -53,3 +53,18 @@
 3- Ensure data loading and preprocessing steps match the input format required by the notebook.
 
 **Expected Results**: The model displays performance metrics such as R^2 and outputs predictions.
+
+**05- Ensemble (AdaBoost model)**
+
+**How to Run:**
+
+1- Open the Jupyter Notebook 05- Ensemble (AdaBoost model).ipynb.
+
+2- Run the cells sequentially for data loading, training, and testing the model.
+
+3- Use Train.xlsx and Test.xlsx as the input datasets.
+
+**Expected Results**: The notebook should output the trained model’s performance metrics and predictions.
+
+
+
