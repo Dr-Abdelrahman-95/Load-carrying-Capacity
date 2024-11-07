@@ -14,7 +14,6 @@
 
 **Expected Results:** The function outputs a Qx1 matrix representing the predictions.
 
-
 **02- Non-Ensemble (GEP model)**
 
 **How to Run:**
@@ -30,4 +29,19 @@
 5- Make sure Train.xlsx and Test.xlsx data are formatted for proper extraction.
 
 **Expected Results**: The function returns the model's prediction as a float value.
+
+**03- Non-Ensemble (SVR model)**
+
+**How to Run:**
+
+1- Open the Jupyter Notebook 03- Non-Ensemble (SVR model).ipynb.
+
+2- Run each cell sequentially to load data, train the model, and make predictions.
+
+3- Ensure the Train.xlsx and Test.xlsx files are read correctly using pandas.
+
+**Expected Results**: The notebook outputs performance metrics and predictions from the trained SVR model.
+
+
+
 
