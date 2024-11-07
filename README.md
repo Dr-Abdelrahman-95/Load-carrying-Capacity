@@ -40,7 +40,7 @@
 
 3- Ensure the Train.xlsx and Test.xlsx files are read correctly using pandas.
 
-**Expected Results**: The notebook outputs performance metrics and predictions from the trained SVR model.
+**Expected Results**: The notebook outputs performance metrics and predictions from the trained and Tested SVR model.
 
 
 
