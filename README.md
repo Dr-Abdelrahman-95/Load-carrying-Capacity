@@ -13,3 +13,21 @@
 5- Ensure the Train.xlsx and Test.xlsx data are preprocessed according to the model’s requirements.
 
 **Expected Results:** The function outputs a Qx1 matrix representing the predictions.
+
+
+**02- Non-Ensemble (GEP model)**
+
+**How to Run:**
+
+1- Ensure Python is installed with required libraries (e.g., NumPy).
+
+2-Copy the code from 02- Non-Ensemble (GEP model).py into a Python script.
+
+3- Prepare your input as a data list d matching the required input format.
+
+4- Run the script and call the gepModel(d) function with your input data.
+
+5- Make sure Train.xlsx and Test.xlsx data are formatted for proper extraction.
+
+**Expected Results**: The function returns the model's prediction as a float value.
+
